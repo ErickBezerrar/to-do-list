@@ -44,8 +44,9 @@ body {
 }
 
 .glass h5{
+    font-size: medium;
     color: aliceblue;
-    padding-left: 825px;
+    padding-left: 1000px;
     width: 300px;
 }
 
@@ -70,5 +71,5 @@ button {
   }
 
   .botoes{
-    padding-left: 810px;
+    padding-left: 970px;
   }
